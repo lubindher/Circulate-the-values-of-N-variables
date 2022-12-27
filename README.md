@@ -31,7 +31,7 @@ def circulate():
 ```
 
 ## Output:
-![output](./Screenshot%202022-12-27%20203211.png)
+![output](./[Screenshot 2022-12-27 203211])
 
 ## Result:
 Thus circulating the values of N variables using fusion concept successfully executed
