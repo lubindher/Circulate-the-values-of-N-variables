@@ -30,7 +30,7 @@ def circulate():
     print("After circulating the values are:",c)
 ```
 
-### Output:
+## Output:
 ![output](./Screenshot%202022-12-27%20203211.png)
 
 ## Result:
